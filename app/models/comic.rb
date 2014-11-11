@@ -1,5 +1,5 @@
 class Comic < ActiveRecord::Base
-	belong_to :user
-	validate :title, presence: true
-	validate :publisher, presence: true
+	belongs_to :user
+	validates :title, presence: true
+	validates :publisher, presence: true
 end

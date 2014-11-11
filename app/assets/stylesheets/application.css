@@ -1,3 +1,47 @@
+div.father_field{
+	margin: 45% 590px;
+	padding-left: 30px;
+}
+.field{
+	font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+}
+#user_name{
+	margin-left: 0px;
+	font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+	width: 250px;
+	height: 30px;
+	background-color: #Fa9;
+}
+#user_email{
+	margin-left: 0px;
+	font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+	width: 250px;
+	height: 30px;
+	background-color: #Fa9;
+}
+#user_password{
+	margin-left: 0px;
+	font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+	width: 250px;
+	height: 30px;
+	background-color: #Fa9;
+}
+#user_password_confirmation{
+	margin-left: 0px;
+	font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+	width: 250px;
+	height: 30px;
+	background-color: #Fa9;
+}
+input{
+	margin-left: 50px;
+	font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+	width: 100px;
+	height: 30px;
+	background-color: #6383A8;
+	color: white;
+	border-radius: 5px;
+}
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
